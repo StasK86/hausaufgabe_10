@@ -1,0 +1,9 @@
+{
+  "firstName": "Britney",
+  "lastName": "Spears",
+  "dateOfBirth": "02 December 1981",
+  "phoneNumber": "7234567890",
+  "currentAddress": "Las Vegas",
+  "email":"britneyspears@gmail.com",
+  "hobbies": ["Music"]
+}
